@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+header {
+    background: #ffcccc;
+}
+
+#main {
+    background: #ccffcc;
+    width: 700px;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+
+#menu {
+    background: #ccccff;
+    width: 282px;
+    float: left;
+    line-height: 1.6;
+    margin: 0;
+    padding:4px 9px 4px 9px;
+}
+
+footer {
+    background-color: #ffccff;
+    clear: both;
+    margin: 0;
+}
